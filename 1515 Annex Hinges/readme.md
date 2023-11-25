@@ -18,7 +18,8 @@
 </p>
 
 Scaled down annex hinges for 1515 extrusions.
-Both LDO and Makerbeam style extrusions are supported.  Hinge arms to support using either 1mm or 3mm foam
+Both LDO and Makerbeam style extrusions are supported.  
+Hinge arms to support using either 1mm or 3mm foam
 Door panel attachment to the hinges via VHB or Screw.
 
 ## BOM (Per Hinge)
